@@ -74,3 +74,4 @@ CHAINSAFE_BUCKET_ID=your_chainsafe_bucket_id
 ### 🚀 Looking to build a platform like four.meme?
 
 I've made the UI open-source, but the backend and smart contract are closed-source. If you're interested in creating a full-fledged four.meme-like platform, let's collaborate! [Contact me on Telegram](https://t.me/midaBricoll) for more details.
+I can also provide the fourmeme-fork contract and backend so that you can get the entire set of platform from me.
